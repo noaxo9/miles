@@ -1,11 +1,11 @@
-public class main {
+public class Main {
     public static void main(String[] args) {
         int ticket = 2000;
         int money = 20;
-        int miles = ticket/money;
+        int miles = ticket / money;
 
         System.out.println(miles);
-        
+
         // Объявляете переменные для входных данных и
         // параметров программы: одну для хранения
         // стоимости билета, другую для хранения количества
